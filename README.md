@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m passionate about cybersecurity and very inte
 
 ## Who Am I?
 
-### 🌐 Cybersecurity Enthusiast
+### 🌐 Cybersecurity Expert
 I’m obsessed with understanding how computers work, from their core systems to the latest tech advancements. Exploring these complexities is where I find my excitement.
 
 ### 🕵️‍♂️ Ethical Hacker
