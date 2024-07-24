@@ -1,4 +1,4 @@
-# Hey!! it's soph here!! :) 
+# hey!! it's soph here!! :) 
 
 Welcome to my GitHub profile! I’m passionate about cybersecurity and very interested in how computers work. My journey involves ethical hacking and penetration testing, where I dive deep into systems to uncover and fix vulnerabilities.
 
