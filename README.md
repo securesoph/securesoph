@@ -1,6 +1,6 @@
 # Hi there, I'm Sophia Aldarwish! 👋
 
-Welcome to my GitHub profile! I’m passionate about cybersecurity and very interested in how computers tick. My journey involves ethical hacking and penetration testing, where I dive deep into systems to uncover and fix vulnerabilities.
+Welcome to my GitHub profile! I’m passionate about cybersecurity and very interested in how computers work. My journey involves ethical hacking and penetration testing, where I dive deep into systems to uncover and fix vulnerabilities.
 
 ## Who Am I?
 
