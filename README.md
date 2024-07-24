@@ -13,7 +13,7 @@ I’m dedicated to finding and fixing security issues. My approach is all about 
 ### 🔍 Penetration Testing Expert 
 I thrive on the challenge of finding weak spots and improving security measures. Whether it’s manual testing or using automated tools, discovering and addressing security gaps is what drives me.
 
-### 💻 Tech Nerd 🤓 
+### 💻 Tech Nerd
 I’m always on the lookout for the latest in tech and software. From coding to learning new tools, staying ahead in the ever-evolving tech world is my passion.
 
 ### 🐧 Linux User
