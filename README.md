@@ -16,14 +16,14 @@ I thrive on the challenge of finding weak spots and improving security measures.
 ### 💻 Tech Nerd
 I’m always on the lookout for the latest in tech and software. From coding to learning new tools, staying ahead in the ever-evolving tech world is my passion.
 
-### 🐧 Linux User
-I’m really into Linux – it’s super flexible and powerful, and I use it to boost my cybersecurity skills and make my development process smoother.
+### 🐧 Kali Linux User
+I’m really into Kali Linux – it’s super flexible and powerful, and I use it to boost my cybersecurity skills and make my development process smoother.
 
 ### 🍏 macOS User
-In addition to Linux, I use macOS to manage my projects and delve into cybersecurity challenges.
+In addition to Kali Linux, I use macOS to manage my projects and delve into cybersecurity challenges.
 
-## Skills & Expertise
+## My Skills & Expertise 🤪
 
 - **Languages**: Python
 - **Tools**: John the Ripper, Nmap, Wireshark, Metasploit
-- **Operating Systems**: Linux, macOS
+- **Operating Systems**: Kali Linux, macOS
