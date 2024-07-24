@@ -18,6 +18,6 @@ I’m always on the lookout for the latest in tech and software. From coding to 
 
 ## Skills & Expertise
 
-- **Languages**: Python, JavaScript, HTML, CSS
+- **Languages**: Python
 - **Tools**: Metasploit, Wireshark, Nmap, Burp Suite
 - **Areas of Focus**: Web Security, Network Security, Cryptography, Cloud Security
