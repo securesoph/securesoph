@@ -1,4 +1,4 @@
-hey! it's soph here! 😎
+## hey! it's soph here! 😎
 ![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=securesoph&color=red&style=plastic&label=Profile+Views)
