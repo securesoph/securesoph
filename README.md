@@ -8,7 +8,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%F0%9F%90%A7-lightblue)
 ![macOS User](https://img.shields.io/badge/macOS-User-black)
 
-Welcome to my GitHub profile! I'm super passionate about cybersecurity and how computers work at their core. My journey into tech has been driven by an endless curiosity to understand systems and networks, and over time, I’ve found myself diving deeper into ethical hacking and penetration testing. I absolutely love getting into systems, finding vulnerabilities, and figuring out how to secure them (legally, of course 😄).
+Welcome to my GitHub profile! I'm super passionate about cybersecurity and how computers work at their core. My journey into tech has been driven by an endless curiosity to understand systems and networks, and over time, I’ve found myself diving deeper into ethical hacking and penetration testing. I absolutely love getting into systems, finding vulnerabilities, and figuring out how to secure them!! (legally, of course 😄).
 
 I’m all about keeping data safe and systems locked down, whether it’s through manual security testing or automating processes with tools I’ve built. Each vulnerability I uncover is like a puzzle to solve—one that makes the world a bit more secure once it's fixed. I take a lot of pride in using my skills to protect systems and keep attackers out!
 
