@@ -1,4 +1,4 @@
-# hey! It's soph here! 😎
+![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=securesoph&color=red&style=plastic&label=Profile+Views)
 
@@ -15,10 +15,8 @@ Whether it's picking apart network infrastructures, doing manual security tests,
 
 Cybersecurity is constantly changing, which is what makes it so exciting for me. There’s always something new to learn or a fresh challenge to tackle, and I’m always up for that. I hope you enjoy checking out my projects as much as I’ve enjoyed working on them!
 
-## Watch the Snake Eat My Contributions 🤭
-![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
 
-## Who Am I? 😌
+## Who is Sophia Aldarwish? 🤔 
 
 🌐 **Cybersecurity Expert**  
 I’m obsessed with understanding how computers work, from their core systems to the latest tech advancements. Exploring these complexities is where I find my excitement.
@@ -37,6 +35,7 @@ I’m really into Kali Linux – it’s super flexible and powerful, and I use i
 
 🍏 **macOS User**  
 In addition to Kali Linux, I use macOS to manage my projects and delve into cybersecurity challenges.
+
 ## My Skills & Expertise 🤪
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
