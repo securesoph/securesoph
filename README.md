@@ -44,10 +44,6 @@ In addition to Kali Linux, I use macOS to manage my projects and delve into cybe
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=securesoph&theme=radical)](https://git.io/streak-stats)
 
-## Contribution Graph 📊 
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=securesoph&theme=github)
-
 ## Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=securesoph&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
