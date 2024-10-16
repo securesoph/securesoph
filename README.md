@@ -18,7 +18,7 @@ Feel free to check out my projects, where I’ve created scripts and tools to ma
 
 ---
 
-## soph's featured projects 🤍🤍 :
+## soph's featured projects 🤍🤍
 
 [![Soph's IDS Script](https://img.shields.io/badge/-Soph's%20ID%20Script-lightgrey)](https://github.com/securesoph/sophsidscript)  
 This tool automates identification processes for systems, simplifying the task of gathering user and device information by generating detailed system insights. It’s designed to make routine tasks for system administrators more efficient and less error-prone. I created this script to save time and make managing systems more straightforward.
@@ -33,7 +33,7 @@ A handy tool to generate strong, random passwords, ensuring secure password prac
 
 ---
 
-## soph's skills and expertise 🐚 :
+## soph's skills and expertise 🐚
 
 ![Python](https://img.shields.io/badge/Python-3.9-lightgrey?logo=python)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-Tool-lightgrey)
@@ -47,6 +47,6 @@ A handy tool to generate strong, random passwords, ensuring secure password prac
 
 ---
 
-## soph's github stats ☁️ :
+## soph's github stats ☁️
 
 ![Soph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=securesoph&show_icons=true&theme=graywhite)
