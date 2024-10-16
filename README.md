@@ -8,6 +8,9 @@ Whether it's picking apart network infrastructures, doing manual security tests,
 
 Cybersecurity is constantly changing, which is what makes it so exciting for me. There’s always something new to learn or a fresh challenge to tackle, and I’m always up for that. I hope you enjoy checking out my projects as much as I’ve enjoyed working on them!
 
+## Watch the Snake Eat My Contributions 🤭
+![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
+
 ## Who Am I? 😌
 
 🌐 **Cybersecurity Expert**  
@@ -38,8 +41,6 @@ In addition to Kali Linux, I use macOS to manage my projects and delve into cybe
 
 ![Soph's GitHub Stats](https://github-readme-stats.vercel.app/api?username=securesoph&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=securesoph&layout=compact&theme=radical)
-
 ## Streak Stats ⚡️
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=securesoph&theme=radical)](https://git.io/streak-stats)
@@ -47,7 +48,4 @@ In addition to Kali Linux, I use macOS to manage my projects and delve into cybe
 ## Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=securesoph&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-## Watch the Snake Eat My Contributions 🤭
-![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
 
