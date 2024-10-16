@@ -54,3 +54,4 @@ In addition to Kali Linux, I use macOS to manage my projects and delve into cybe
 
 ## Watch the Snake Eat My Contributions 🐍
 ![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
+
