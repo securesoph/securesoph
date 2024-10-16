@@ -44,10 +44,6 @@ In addition to Kali Linux, I use macOS to manage my projects and delve into cybe
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=securesoph&theme=radical)](https://git.io/streak-stats)
 
-## Watch the Snake Eat My Contributions 🐍
-![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
-
-
 ## Trophies 🏆
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=securesoph&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
@@ -55,3 +51,6 @@ In addition to Kali Linux, I use macOS to manage my projects and delve into cybe
 ## Visitors 🥹
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=securesoph&color=red&style=plastic&label=Profile+Views)
+
+## Watch the Snake Eat My Contributions 🐍
+![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
