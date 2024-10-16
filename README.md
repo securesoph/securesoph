@@ -1,4 +1,16 @@
-## hey! it's soph here! 😎
+## soph's featured projects 🥹
+
+[![Soph's ID Script](https://img.shields.io/badge/-Soph's%20ID%20Script-blue)](https://github.com/securesoph/sophsidscript)  
+A tool to automate identification script for systems.
+
+[![Soph's Vulnerability Scanner](https://img.shields.io/badge/-Soph's%20Vulnerability%20Scanner-green)](https://github.com/securesoph/sophsvulnerabilityscanner)  
+A script to scan and report vulnerabilities in systems.
+
+[![Soph's Password Generator](https://img.shields.io/badge/-Soph's%20Password%20Generator-purple)](https://github.com/securesoph/sophspasswordgenerator)  
+A tool to generate secure passwords for users.
+
+---
+
 ![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=securesoph&color=red&style=plastic&label=Profile+Views)
