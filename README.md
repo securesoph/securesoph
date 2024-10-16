@@ -1,6 +1,12 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=securesoph&color=red&style=plastic&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=securesoph&color=lightgrey&style=for-the-badge&label=VISITORS)
 
 ## Who is Sophia Aldarwish? 🤔 
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-blue)
+![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-%F0%9F%92%AD-blue)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Expert-green)
+![Python](https://img.shields.io/badge/Python-Language-yellow)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%F0%9F%90%A7-lightblue)
+![macOS User](https://img.shields.io/badge/macOS-User-black)
 
 Welcome to my GitHub profile! I'm super passionate about cybersecurity and how computers work at their core. My journey into tech has been driven by an endless curiosity to understand systems and networks, and over time, I’ve found myself diving deeper into ethical hacking and penetration testing. I absolutely love getting into systems, finding vulnerabilities, and figuring out how to secure them (legally, of course 😄).
 
@@ -22,13 +28,6 @@ This script scans systems for vulnerabilities and provides detailed reports on p
 A handy tool to generate strong, random passwords, ensuring secure password practices for users. This helps protect sensitive information by creating passwords that are tough to crack. I put this together to help people create secure passwords without the hassle of coming up with one on their own.
 
 ![snake gif](https://github.com/securesoph/securesoph/blob/output/github-contribution-grid-snake.svg)
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Expert-blue)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-%F0%9F%92%AD-blue)
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Expert-green)
-![Python](https://img.shields.io/badge/Python-Language-yellow)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%F0%9F%90%A7-lightblue)
-![macOS User](https://img.shields.io/badge/macOS-User-black)
 
 ## My Skills & Expertise 🤪
 
